@@ -26,8 +26,8 @@ worth listing — not before.
 ## Get in touch
 
 - Product, partnerships, or the beta: [adelsaiq.ai](https://adelsaiq.ai).
-- Security: [security@adelsaiq.ai](mailto:security@adelsaiq.ai) — never a public
-  issue. See [SECURITY.md](../SECURITY.md).
+- Security: [security@adelsaiq.ai](mailto:security@adelsaiq.ai) — never a public issue.
+  See the [security policy](https://github.com/adelsaiq/.github/security/policy).
 - Anything else: [support@adelsaiq.com](mailto:support@adelsaiq.com).
 
 Founded by [Danniela Gumo](https://github.com/dannielagumo).
