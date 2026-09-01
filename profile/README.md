@@ -1,15 +1,13 @@
 <div align="center">
-  <a href="https://adelsaiq.ai">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-      <img alt="AdelsaIQ — meetings, orchestrated" src="banner-light.svg" width="888">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+    <img alt="AdelsaIQ — meetings, orchestrated" src="banner-light.svg" width="888">
+  </picture>
 </div>
 
 # Intelligence for every meeting.
 
-[AdelsaIQ](https://adelsaiq.ai) coordinates meetings that span **different
+AdelsaIQ coordinates meetings that span **different
 organizations and different calendar systems** — the case the platform-native
 schedulers do not cover, because each of them assumes everyone is inside it.
 
@@ -25,7 +23,8 @@ worth listing — not before.
 
 ## Get in touch
 
-- Product, partnerships, or the beta: [adelsaiq.ai](https://adelsaiq.ai).
+- Product, partnerships, or the beta:
+  [support@adelsaiq.com](mailto:support@adelsaiq.com). The site is not live yet.
 - Security: [security@adelsaiq.ai](mailto:security@adelsaiq.ai) — never a public issue.
   See the [security policy](https://github.com/adelsaiq/.github/security/policy).
 - Anything else: [support@adelsaiq.com](mailto:support@adelsaiq.com).
